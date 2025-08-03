@@ -26,7 +26,8 @@ q{
 	text-align: center;
 }
 
-#endnotes cite{
+#endnotes li#note-5 cite,
+#endnotes li#note-6 cite{
 	display: inline;
 	font-style: normal;
 }
