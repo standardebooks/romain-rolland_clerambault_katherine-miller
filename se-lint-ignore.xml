@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="part-3.xhtml">
+	<file path="endnotes.xhtml">
 		<ignore>
-			<code>s-077</code>
-			<reason>Header is part of the same blockquote.</reason>
+			<code>s-054</code>
+			<reason>The translator is not the source of the quote.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
