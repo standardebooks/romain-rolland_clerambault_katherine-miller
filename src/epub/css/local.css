@@ -2,7 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-blockquote[xml|lang]{
+blockquote[xml|lang],
+q{
 	font-style: italic;
 }
 
@@ -14,10 +15,6 @@ section[epub|type~="z3998:subchapter"]{
 footer{
 	margin-top: 1em;
 	text-align: right;
-}
-
-q{
-	font-style: italic;
 }
 
 #part-3 header{
@@ -45,10 +42,9 @@ q{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
-/* End letters
+/* End letters */
 
 /* All epigraphs */
-
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
