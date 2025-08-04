@@ -23,12 +23,6 @@ footer{
 	text-align: center;
 }
 
-#endnotes li#note-5 cite,
-#endnotes li#note-6 cite{
-	display: inline;
-	font-style: normal;
-}
-
 /* Letters */
 [epub|type~="z3998:letter"] header{
 	text-align: right;
