@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10868</dc:source>
 		<dc:source>https://archive.org/details/clerambault0000roma_o9i0</dc:source>
-		<meta property="se:production-notes">Some translations have been moved from the text to the endnotes. These are attributed to the translator.</meta>
+		<meta property="se:production-notes">Some translations have been moved from the text to the endnotes.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Clerambault</meta>
