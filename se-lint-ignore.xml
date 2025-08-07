@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="part-5.xhtml">
+		<ignore>
+			<code>s-005</code>
+			<reason>Nested blockquote is a quotation within a letter.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
