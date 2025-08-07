@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/romain-rolland/clerambault/katherine-miller</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-08-07T16:25:29Z</dc:date>
+		<meta property="dcterms:modified">2025-08-07T16:25:29Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,16 +41,16 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A peace activist must contend with alienation from his his friends and family.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Clerambault is a minor poet in pre-World War I France and a believer in European integration and the impossibility of war. When war is declared however, he becomes swept up in the surrounding nationalism and militarism, though he maintains a sense of discomfort and recognition that his opinions have change. It is only when tragedy befalls his family he is forced to belatedly fully recognize his complicity with the ongoing war and the general ruin it is causing. He commits himself to speaking out against the war, and highlighting its corrupting influence. Unfortunately for him, this does not make him any friends. He is denounced as a traitor to the republic and roundly condemned, even by his former friends and colleagues.&lt;/p&gt;
-			&lt;p&gt;Despite the public and private rejection, Clerambault continues to dedicate his time and literary skills to exposing the crimes being committed. He eventually meets would-be revolutionaries, who agree with his statements about the war and French society, but desire a more radical course of action than Clerambault can endorse.&lt;/p&gt;
-			&lt;p&gt;Though ostensibly written about the war, &lt;a href="https://standardebooks.org/ebooks/romain-rolland"&gt;Rolland&lt;/a&gt; makes clear that the novel is really about the importance of maintaining freedom of thought, even (or especially) in times of near uniformity of opinion. Rolland, who had earlier won the Nobel Prize in literature, was called the conscience of Europe by &lt;a href="https://standardebooks.org/ebooks/stefan-zweig"&gt;Stephan Zweig&lt;/a&gt;. &lt;i&gt;Clerambault&lt;/i&gt; provides ample evidence for that claim and stands as a strong defense of individuality against oppression by the masses as well as a passionate plea for peace both between and within nations.&lt;/p&gt;
+			&lt;p&gt;Clerambault is a minor poet in pre-World War I France and a believer in European integration and the impossibility of war. But when war is declared, he is swept up in the surrounding nationalism and militarism—though he maintains a sense of discomfort and recognition that his opinions have changed. It’s only when tragedy befalls his family that he’s forced to belatedly recognize his complicity in the war and the ruin it has caused. He commits himself to speaking out against the war, but this doesn’t make him any friends. He’s condemned as a traitor—even by his former friends and colleagues.&lt;/p&gt;
+			&lt;p&gt;Despite the public and private rejections, Clerambault continues to dedicate his time and literary skills to exposing the crimes being committed. He eventually meets would-be revolutionaries, who agree with his thinking on the war and French society, but who desire a more radical course of action than Clerambault can endorse.&lt;/p&gt;
+			&lt;p&gt;Though ostensibly written about the war, &lt;a href="https://standardebooks.org/ebooks/romain-rolland"&gt;Rolland&lt;/a&gt; makes clear that the novel is really about the importance of maintaining freedom of thought, even (or especially) in times of near-uniformity of opinion. Rolland, who had earlier won the Nobel Prize in literature, was called the conscience of Europe by &lt;a href="https://standardebooks.org/ebooks/stefan-zweig"&gt;Stephan Zweig&lt;/a&gt;. &lt;i&gt;Clerambault&lt;/i&gt; provides ample evidence for that claim and stands as a strong defense of individuality against oppression by the masses, as well as a passionate plea for peace both between and within nations.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10868</dc:source>
 		<dc:source>https://archive.org/details/clerambault0000roma_o9i0</dc:source>
 		<meta property="se:production-notes">Some translations have been moved from the text to the endnotes.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">82663</meta>
+		<meta property="se:reading-ease.flesch">65.86</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Clerambault</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/romain-rolland_clerambault_katherine-miller</meta>
 		<dc:creator id="author">Romain Rolland</dc:creator>
@@ -91,6 +91,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
