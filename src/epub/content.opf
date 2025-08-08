@@ -51,7 +51,7 @@
 		<meta property="se:production-notes">Some translations have been moved from the text to the endnotes.</meta>
 		<meta property="se:word-count">82663</meta>
 		<meta property="se:reading-ease.flesch">65.86</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Clerambault</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Clérambault_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/romain-rolland_clerambault_katherine-miller</meta>
 		<dc:creator id="author">Romain Rolland</dc:creator>
 		<meta property="file-as" refines="#author">Rolland, Romain</meta>
