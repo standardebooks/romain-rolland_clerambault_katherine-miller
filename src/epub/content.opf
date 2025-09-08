@@ -50,7 +50,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/10868</dc:source>
 		<dc:source>https://archive.org/details/clerambault0000roma_o9i0</dc:source>
 		<meta property="se:production-notes">Some translations have been moved from the text to the endnotes.</meta>
-		<meta property="se:word-count">82470</meta>
+		<meta property="se:word-count">82469</meta>
 		<meta property="se:reading-ease.flesch">65.86</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Clérambault_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/romain-rolland_clerambault_katherine-miller</meta>
