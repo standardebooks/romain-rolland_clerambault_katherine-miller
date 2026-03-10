@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="part-5.xhtml">
 		<ignore code="s-005">
+			<line>79</line>
 			<reason>Nested blockquote is a quotation within a letter.</reason>
 		</ignore>
 	</file>
