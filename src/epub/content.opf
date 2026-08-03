@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/romain-rolland/clerambault/katherine-miller</dc:identifier>
 		<dc:date>2025-08-07T16:25:29Z</dc:date>
@@ -41,12 +41,12 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113819</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A peace activist must contend with alienation from his his friends and family.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A peace activist must contend with alienation from his his friends and family.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Clerambault is a minor poet in pre-World War I France and a believer in European integration and the impossibility of war. But when war is declared, he is swept up in the surrounding nationalism and militarism—though he maintains a sense of discomfort and recognition that his opinions have changed. It’s only when tragedy befalls his family that he’s forced to belatedly recognize his complicity in the war and the ruin it has caused. He commits himself to speaking out against the war, but this doesn’t make him any friends. He’s condemned as a traitor—even by his former friends and colleagues.&lt;/p&gt;
 			&lt;p&gt;Despite the public and private rejections, Clerambault continues to dedicate his time and literary skills to exposing the crimes being committed. He eventually meets would-be revolutionaries, who agree with his thinking on the war and French society, but who desire a more radical course of action than Clerambault can endorse.&lt;/p&gt;
 			&lt;p&gt;Though ostensibly written about the war, &lt;a href="https://standardebooks.org/ebooks/romain-rolland"&gt;Rolland&lt;/a&gt; makes clear that the novel is really about the importance of maintaining freedom of thought, even (or especially) in times of near-uniformity of opinion. Rolland, who had earlier won the Nobel Prize in literature, was called the conscience of Europe by &lt;a href="https://standardebooks.org/ebooks/stefan-zweig"&gt;Stephan Zweig&lt;/a&gt;. &lt;i&gt;Clerambault&lt;/i&gt; provides ample evidence for that claim and stands as a strong defense of individuality against oppression by the masses, as well as a passionate plea for peace both between and within nations.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10868</dc:source>
 		<dc:source>https://archive.org/details/clerambault0000roma_o9i0</dc:source>
