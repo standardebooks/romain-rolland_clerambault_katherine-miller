@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113819</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A peace activist must contend with alienation from his his friends and family.</dc:abstract>
+		<meta property="schema:abstract">A peace activist must contend with alienation from his his friends and family.</meta>
 		<dc:description>
 			&lt;p&gt;Clerambault is a minor poet in pre-World War I France and a believer in European integration and the impossibility of war. But when war is declared, he is swept up in the surrounding nationalism and militarism—though he maintains a sense of discomfort and recognition that his opinions have changed. It’s only when tragedy befalls his family that he’s forced to belatedly recognize his complicity in the war and the ruin it has caused. He commits himself to speaking out against the war, but this doesn’t make him any friends. He’s condemned as a traitor—even by his former friends and colleagues.&lt;/p&gt;
 			&lt;p&gt;Despite the public and private rejections, Clerambault continues to dedicate his time and literary skills to exposing the crimes being committed. He eventually meets would-be revolutionaries, who agree with his thinking on the war and French society, but who desire a more radical course of action than Clerambault can endorse.&lt;/p&gt;
